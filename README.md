@@ -10,18 +10,18 @@ Eco Home is a MERN stack-based E-commerce Platform that helps users track their 
   `"You're all set to go!"`  
   Followed by redirection to Login page.
 
-### Home Page
+### 🏠 Home Page
 - Contains various products
 - Contains Cart and Wishlist features
 - Checkout and Payment using Razorpay
 
-### Products
+### 🌿 Products
 - Video explaining reasons for the product usage
 - Carbon Footprint and Sustainability Rate of each product
 - Reviews from various users and analysis
 - Recommend similar products
 
-### 📊 Dashboard
+### 👨‍👩‍👧‍👦 Dashboard
 - Displays **"Total Impact Points Earned"**
 - Shows **Money Saved** based on CO₂ saved
   > _Money saved is dynamically calculated from total CO₂ saved_  
@@ -53,20 +53,35 @@ https://github.com/user-attachments/assets/d782a37b-1083-4f29-b9ac-5d8c4c8367b1
 ## 🔧 Project Structure
 eco-home-project/
 ├── backend/
+
 │ ├── controllers/
+
 │ ├── models/
+
 │ ├── routes/
+
 │ ├── middleware/
+
 │ ├── server.js
+
 │ └── .env
+
 ├── frontend/
+
 │ ├── src/
+
 │ │ ├── components/
+
 │ │ ├── pages/
+
 │ │ ├── services/
+
 │ │ ├── styles/
+
 │ │ └── App.jsx
+
 │ └── public/
+
 └── README.md
 
 
