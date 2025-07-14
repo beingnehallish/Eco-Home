@@ -1,9 +1,6 @@
 # 🌿 Eco Home Project
 
 Eco Home is a MERN stack-based E-commerce Platform that helps users track their **carbon savings** and see how much **money they’ve saved** by reducing CO₂ emissions. It encourages users to take eco-friendly actions and rewards them with **Impact Points**.
-###ECO HOME 
----
-
 ## 🚀 Key Features
 
 ### 🔐 Authentication
