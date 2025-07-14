@@ -10,14 +10,26 @@ Eco Home is a MERN stack-based E-commerce Platform that helps users track their 
   `"You're all set to go!"`  
   Followed by redirection to Login page.
 
+### Home Page
+- Contains various products
+- Contains Cart and Wishlist features
+- Checkout and Payment using Razorpay
+
+### Products
+- Video explaining reasons for the product usage
+- Carbon Footprint and Sustainability Rate of each product
+- Reviews from various users and analysis
+- Recommend similar products
+
 ### 📊 Dashboard
 - Displays **"Total Impact Points Earned"**
 - Shows **Money Saved** based on CO₂ saved
   > _Money saved is dynamically calculated from total CO₂ saved_  
   _e.g. ₹10 saved per 1 kg CO₂_
-- Stylish **green container** at the top of the dashboard
-  - Heading: "Total Impact Points Earned"
-  - Money saved: shown **2x larger**
+- Displays user information, allows adding Address.
+- View Past Orders
+- Logout
+
 
 ### 💡 CO₂ Savings Logic
 ```js
